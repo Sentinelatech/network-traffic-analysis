@@ -1,0 +1,14 @@
+# Capturas brutas não vão para o repositório. Versione só a amostra sanitizada.
+*.pcap
+*.pcapng
+!capturas/amostra.pcapng
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
