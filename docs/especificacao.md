@@ -1,6 +1,6 @@
 # Especificação — network-traffic-analysis
 
-**Semana:** 17/10 a 23/10/2026
+**Semana:** 21/10 a 27/10/2026
 **Entrega final:** relatório em `relatorio/` + captura em `capturas/`
 
 ## Contexto
@@ -36,10 +36,10 @@ A issue de cada dia detalha a tarefa. O tamanho é uma estimativa; o que vale é
 
 | Dia | Fase | Entrega do dia |
 |---|---|---|
-| Sáb 17/10 | Montar o ambiente e fazer a primeira captura (dia leve) | `.pcapng` salvo e aberto no Wireshark |
-| Dom 18/10 | DNS (dia leve) | Seção de DNS do relatório |
-| Seg 19/10 | TCP | Seção do handshake TCP |
-| Ter 20/10 | TLS | Seção de TLS, em rascunho |
-| Qua 21/10 | HTTP e diagrama | Seção HTTP e o diagrama de sequência |
-| Qui 22/10 | Pontos de segurança e revisão | Relatório completo em rascunho |
-| Sex 23/10 | Fechamento | Relatório final, README e limpeza da captura |
+| Qua 21/10 | Montar o ambiente e fazer a primeira captura | `.pcapng` salvo e aberto no Wireshark |
+| Qui 22/10 | DNS | Seção de DNS do relatório |
+| Sex 23/10 | TCP | Seção do handshake TCP |
+| Sáb 24/10 | TLS (dia leve) | Seção de TLS, em rascunho |
+| Dom 25/10 | HTTP e diagrama (dia leve) | Seção HTTP e o diagrama de sequência |
+| Seg 26/10 | Pontos de segurança e revisão | Relatório completo em rascunho |
+| Ter 27/10 | Fechamento | Relatório final, README e limpeza da captura |
