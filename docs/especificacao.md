@@ -32,14 +32,12 @@ Interceptar tráfego de terceiros; capturar em rede que não seja a sua; qualque
 
 ## Fases (issues da semana)
 
-A issue de cada dia detalha a tarefa. O tamanho é uma estimativa; o que vale é o prazo da semana.
+A issue de cada dia detalha a tarefa. O tamanho é uma estimativa; o que vale é o prazo da semana. O ritmo é de **2h por dia**, de segunda a sexta. Sábado e domingo ficam fora do projeto: são a folga e a margem para recuperar um dia que não rendeu.
 
 | Dia | Fase | Entrega do dia |
 |---|---|---|
-| Sex 23/10 | Montar o ambiente e fazer a primeira captura | `.pcapng` salvo e aberto no Wireshark |
-| Sáb 24/10 | DNS (dia leve) | Seção de DNS do relatório |
-| Dom 25/10 | TLS (dia leve) | Seção de TLS, em rascunho |
-| Seg 26/10 | TCP | Seção do handshake TCP |
-| Ter 27/10 | HTTP e diagrama | Seção HTTP e o diagrama de sequência |
-| Qua 28/10 | Pontos de segurança e revisão | Relatório completo em rascunho |
-| Qui 29/10 | Fechamento | Relatório final, README e limpeza da captura |
+| Sex 23/10 | Ambiente e captura | `.pcapng` da abertura de um site, salvo em `capturas/` |
+| Seg 26/10 | DNS e TCP | Seção única: a resolução do nome e o handshake, com os pacotes citados |
+| Ter 27/10 | TLS e HTTP | Seção única: onde o conteúdo deixa de ser legível |
+| Qua 28/10 | Diagrama e pontos de segurança | Diagrama de sequência + o risco de cada camada |
+| Qui 29/10 | Fechamento | Relatório final, README e captura revisada |
